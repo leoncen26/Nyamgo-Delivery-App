@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838239470188",
+    "project_id": "nyamgo-5d83c",
+    "storage_bucket": "nyamgo-5d83c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838239470188:android:07a741f9c871053b5bce49",
+        "android_client_info": {
+          "package_name": "com.example.nyamgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBa-X5jq8nOJR5aByzivMvSL33DsOHLRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
