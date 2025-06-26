@@ -1,16 +1,43 @@
-# nyamgo
+# 🍔 NyamGo - Aplikasi Delivery Makanan
 
-A new Flutter project.
+NyamGo adalah aplikasi pemesanan dan pengiriman makanan berbasis Flutter yang terintegrasi dengan Firebase. Aplikasi ini mendukung autentikasi pengguna, pemesanan makanan, pengelolaan keranjang belanja, dan pemantauan status pesanan.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Fitur Utama
 
-A few resources to get you started if this is your first Flutter project:
+### 👤 Autentikasi
+- Login dan register menggunakan email & password
+- Firebase Authentication
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🛒 User Fitur
+- Lihat daftar makanan dan kategori
+- Tambah ke keranjang belanja
+- Pilih metode pengiriman: Pick Up / Delivery
+- Pilih metode pembayaran: Tunai / E-wallet / Kartu Kredit
+- Checkout dan buat pesanan
+- Lihat status pesanan (Diproses, Dikirim, Selesai)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 👨‍🍳 Admin Fitur
+- Lihat seluruh pesanan user
+- Ubah status pesanan menjadi *"Dikirim"*
+- Lihat detail pesanan (produk, metode, waktu, dan alamat)
+
+
+## Admin Homepage 
+![Image Alt](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/admin_dashboard.jpg)
+
+## Admin Homepage 
+![Image Alt](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/user_home_page.jpg)
+
+## Paymentpage 
+![Image Alt](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/payment_page.jpg)
+
+## Admin Detail Order 
+![Image Alt](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/admin_detail_order.jpg)
+
+## Admin Detail Order 
+![Image Alt](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/user_detail_order.jpg)
+
+## Loginpage 
+![Image Alt](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/login_page.jpg)
