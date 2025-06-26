@@ -23,21 +23,15 @@ NyamGo adalah aplikasi pemesanan dan pengiriman makanan berbasis Flutter yang te
 - Ubah status pesanan menjadi *"Dikirim"*
 - Lihat detail pesanan (produk, metode, waktu, dan alamat)
 
+| Admin Homepage | User Home Page |
+|----------------|--------------------|
+| ![AdminHomepage](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/admin_dashboard.jpg) | ![Homepage](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/user_home_page.jpg) |
 
-## Admin Homepage 
-![Image Alt](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/admin_dashboard.jpg)
+| Paymentpage  | Admin Detail Order  |
+|----------------|--------------------|
+| ![Paymentpage](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/payment_page.jpg) | ![AdminDetail](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/admin_detail_order.jpg) |
 
-## Admin Homepage 
-![Image Alt](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/user_home_page.jpg)
+| User Detail Order | Login Page |
+|----------------|--------------------|
+| ![UserDetail](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/user_detail_order.jpg) | ![Loginpage](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/login_page.jpg) |
 
-## Paymentpage 
-![Image Alt](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/payment_page.jpg)
-
-## Admin Detail Order 
-![Image Alt](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/admin_detail_order.jpg)
-
-## Admin Detail Order 
-![Image Alt](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/user_detail_order.jpg)
-
-## Loginpage 
-![Image Alt](https://github.com/leoncen26/Nyamgo-Delivery-App/blob/main/assets/images/screenshoot/login_page.jpg)
