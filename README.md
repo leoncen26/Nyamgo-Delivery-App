@@ -3,6 +3,9 @@
 NyamGo adalah aplikasi pemesanan dan pengiriman makanan berbasis Flutter yang terintegrasi dengan Firebase. Aplikasi ini mendukung autentikasi pengguna, pemesanan makanan, pengelolaan keranjang belanja, dan pemantauan status pesanan.
 
 ---
+### Beberapa bagian dari Design aplikasi terinpirasi dari design Figma: https://www.figma.com/design/SB2UWwM2Zh3vz6awBIByqD/Food-delivery-app-Ui-kit--Community-?node-id=411-11&t=ZXJdPB6zYeKb1tlY-0
+
+---
 
 ## 🚀 Fitur Utama
 
